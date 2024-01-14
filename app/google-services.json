@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432829243348",
+    "project_id": "file-transfer-30727",
+    "storage_bucket": "file-transfer-30727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432829243348:android:5e7003b27175dd39300041",
+        "android_client_info": {
+          "package_name": "com.github.jaykkumar01.filetransfer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR8W1r44_bkp9Ct-AyVOISoKqhv-SQkZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
